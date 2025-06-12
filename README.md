@@ -1,3 +1,5 @@
+origin: https://github.com/beyond-code-github/LinqToQuerystring
+
 Linq to Querystring v0.7.0
 ==========================
 
